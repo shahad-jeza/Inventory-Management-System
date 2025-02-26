@@ -61,7 +61,5 @@ Restock Suggestion: Moderate: Consider restocking soon.
 ## License
 This project is open-source and available for personal and educational use.
 
----
 
-Now you can upload this `README.md` to your repository! 🚀
 

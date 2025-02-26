@@ -6,6 +6,7 @@ class OrderManager {
     public void processOrder(Order order) {
         executor.submit(() -> {
             try {
+                System.out.println("Processing order - updated in main...");
                 // logs >> sleep >> change state using setter
                 System.out.println("Processing order: " + order.getOrderId());
                 Thread.sleep(2000);

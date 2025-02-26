@@ -21,7 +21,7 @@ This project is a simple stock management system implemented in Java. It include
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/shahad-jeza/Inventory-Management-System.git
    cd stock-management-system
    ```
 
